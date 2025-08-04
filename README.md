@@ -1,0 +1,2 @@
+# Secure-Enterprise-Network-Setup-with-Virtualisation-Monitoring
+This project involved designing and implementing a secure enterprise network with VLAN-based segmentation, virtualization, and end-to-end monitoring. Key components included Windows and Ubuntu server installations, RAID configuration, containerization with Docker, automation using Ansible, and network security tools like pfSense and Snort.
