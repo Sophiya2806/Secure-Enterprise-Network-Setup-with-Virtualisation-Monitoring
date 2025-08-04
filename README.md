@@ -36,10 +36,10 @@ Successfully built a secure and automated network lab that simulates an enterpri
 
 ## 📄 Project Report
 📎 [Download Full Report](./Secure%20Enterprise%20Network%20Setup.pdf)  
-*(Make sure the file name matches your uploaded file)*
+
 
 ## 🕒 Timeline
-Project Completed – **July 2025**
+Project Completed – **May 2025**
 
 ## 🙋‍♀️ Author
 **Sophiya S**  
