@@ -34,10 +34,6 @@ This project involved designing and implementing a **secure enterprise network i
 ## 📌 Outcome
 Successfully built a secure and automated network lab that simulates an enterprise environment, improving hands-on knowledge of server management, cybersecurity, automation, and monitoring.
 
-## 📄 Project Report
-📎 [Download Full Report](./Secure%20Enterprise%20Network%20Setup.pdf)  
-
-
 ## 🕒 Timeline
 Project Completed – **May 2025**
 
